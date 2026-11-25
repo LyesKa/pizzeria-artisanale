@@ -1,0 +1,1 @@
+Placez ici les photos originales de la pizzeria (avec autorisation). Remplacez ensuite les URL Unsplash de démonstration dans index.html par les chemins locaux, par exemple assets/images/pizza-01.webp.
